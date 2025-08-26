@@ -11,7 +11,7 @@
 
 | Project | Tools | Description |
 |--------|-------|-------------|
-| [Linux Commands Project](https://github.com/USERNAME/linux-cli-practice) | Linux CLI | A project showcasing hands-on use of basic and intermediate Linux commands |
+| [Linux Project](https://github.com/Nauman-devops/Linux-project.git)| Linux CLI | A project that demonstrates essential file management, system monitoring, and shell scripting skills for DevOps|
 | [CI/CD Pipeline with GitHub Actions](https://github.com/USERNAME/github-actions-cicd) | GitHub Actions, Docker | Sample pipeline that automates testing and deployment |
 | [Terraform AWS Setup](https://github.com/USERNAME/aws-terraform) | Terraform, AWS | Automates AWS EC2 & S3 setup using Terraform |
 
